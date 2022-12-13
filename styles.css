@@ -47,7 +47,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 2rem;
     /* background-color: red; */
-    padding: 1rem 0px;
+    padding: 1rem .8rem;
     overflow-y: scroll;
     
 
