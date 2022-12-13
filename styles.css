@@ -34,17 +34,22 @@ body{
     padding: 0px 0px 1.4rem 0px;
     font-size: x-small;
     font-weight: 900;
+    /* background-color: blue; */
 
 }
 .joke{
     width: 80%;
-    margin: 6rem auto 2rem auto;
+    margin: 4rem auto 2rem auto;
     height: 45%;
     font-size: 1.2rem;
     font-weight: 600;
     text-transform: capitalize;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 2rem;
+    /* background-color: red; */
+    padding: 1rem 0px;
+    overflow-y: scroll;
+    
 
 }
 button{
