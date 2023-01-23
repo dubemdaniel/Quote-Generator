@@ -7,7 +7,6 @@ btn.addEventListener('click', button)
 function button(e){
 
     const xhr = new XMLHttpRequest();
-    
 
     xhr.open("GET", "https://api.chucknorris.io/jokes/random", true);
     
